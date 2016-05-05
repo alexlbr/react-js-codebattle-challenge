@@ -9,3 +9,4 @@ Make sure you have Node.js installed.
   1. `git clone https://github.com/alexlbr/react-js-codebattle-challenge.git`
   2. `cd react-js-codebattle-challenge/`
   3. `npm install`
+  3. `npm test`
