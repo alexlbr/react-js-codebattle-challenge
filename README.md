@@ -6,6 +6,6 @@ This is a simple ReactJS challenge for the codebattle at the [Javascript Lab Lon
 
 Make sure you have Node.js installed.
 
-  1. `git clone https://github.com/...`
-  2. `cd ...`
+  1. `git clone https://github.com/alexlbr/react-js-codebattle-challenge.git`
+  2. `cd react-js-codebattle-challenge/`
   3. `npm install`
